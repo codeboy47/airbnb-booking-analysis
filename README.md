@@ -4,7 +4,7 @@
   <img src="Images/airbnb_logo_detail.jpg" alt="Banner">
 </p>
 
-In this project, I have attempted to analyze the Airbnb booking dataset and come up with some relevant conclusions about the factors contributing to many bookings. No personal information of customers is provided in this dataset. Also built an interactive dashboard in Tableau to visually represent the results of the my EDA project. 
+In this project, I have attempted to analyze the Airbnb booking dataset and come up with some relevant conclusions about the factors contributing to a large number of bookings. No personal information of customers is provided in this dataset. Also built an interactive dashboard in Tableau to visually represent the results of my EDA project.
 
 
 ## :book: Problem Statement
